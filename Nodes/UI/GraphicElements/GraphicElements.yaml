@@ -1,0 +1,23 @@
+Name: GraphicElements
+Type: FolderType
+Children:
+- File: GraphicElements1/GraphicElements1.yaml
+- File: GraphicElements2/GraphicElements2.yaml
+- File: GraphicElements3/GraphicElements3.yaml
+- File: BarGraphs/BarGraphs.yaml
+- File: BottlesAndCo/BottlesAndCo.yaml
+- File: Cabinets/Cabinets.yaml
+- File: Computers/Computers.yaml
+- File: Fans/Fans.yaml
+- File: Flags/Flags.yaml
+- File: FlowChart/FlowChart.yaml
+- File: Icons/Icons.yaml
+- File: LightsAndIndicators/LightsAndIndicators.yaml
+- File: Motors/Motors.yaml
+- File: PipesAndTubes/PipesAndTubes.yaml
+- File: Pumps/Pumps.yaml
+- File: Signs/Signs.yaml
+- File: Symbols/Symbols.yaml
+- File: TanksSilosAndDrums/TanksSilosAndDrums.yaml
+- File: Tickmarks/Tickmarks.yaml
+- File: Tubes/Tubes.yaml

@@ -1,0 +1,31 @@
+<svg version="1.2" baseProfile="tiny" id="EdgeSVG_dsDN4" x="0px" y="0px" width="43.52px" height="7.086px" viewBox="0 0 43.52 7.086" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="21.7583" y1="4.0435" x2="8.8412" y2="4.0435">
+    <stop offset="0.1159" style="stop-color:#FFFFFF;stop-opacity:0.05"/>
+    <stop offset="0.3902" style="stop-color:#FFFFFF;stop-opacity:0.15"/>
+    <stop offset="0.6951" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    <stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+  </linearGradient>
+  <path fill="url(#SVGID_2_)" d="M8.767,7.086c0,0-0.12-3.002,0.462-4.726c0.417-1.233,0.561-1.359,1.6-1.359h10.93v6.085H8.767z"/>
+  <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="21.7583" y1="4.0435" x2="34.7754" y2="4.0435">
+    <stop offset="0.1159" style="stop-color:#FFFFFF;stop-opacity:0.05"/>
+    <stop offset="0.3902" style="stop-color:#FFFFFF;stop-opacity:0.15"/>
+    <stop offset="0.6951" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    <stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+  </linearGradient>
+  <path fill="url(#SVGID_3_)" d="M21.758,7.086V1.001h10.949c1.039,0,1.112,0.152,1.6,1.359c0.624,1.544,0.444,4.726,0.444,4.726&#xD;&#xA;&#x9;&#x9;H21.758z"/>
+  <linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="21.7656" y1="1.0239" x2="21.7656" y2="7.1099">
+    <stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0.15"/>
+    <stop offset="0.0732" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    <stop offset="0.1714" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    <stop offset="0.7683" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    <stop offset="0.7777" style="stop-color:#F5F5F5;stop-opacity:0"/>
+    <stop offset="0.7938" style="stop-color:#D9D9D9;stop-opacity:0"/>
+    <stop offset="0.8146" style="stop-color:#ACACAC;stop-opacity:0"/>
+    <stop offset="0.8395" style="stop-color:#6E6E6E;stop-opacity:0"/>
+    <stop offset="0.8674" style="stop-color:#202020;stop-opacity:0"/>
+    <stop offset="0.878" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.9573" style="stop-color:#000000;stop-opacity:0.2"/>
+    <stop offset="1" style="stop-color:#000000;stop-opacity:0.1"/>
+  </linearGradient>
+  <path fill="url(#SVGID_4_)" d="M10.829,1c-1.04,0-1.184,0.127-1.6,1.36C8.643,4.095,8.767,7.086,8.767,7.086h25.985&#xD;&#xA;&#x9;&#x9;c0,0,0.179-3.182-0.444-4.726C33.819,1.153,33.747,1,32.707,1S11.869,1,10.829,1z"/>
+</svg>

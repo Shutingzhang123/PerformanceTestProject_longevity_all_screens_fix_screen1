@@ -1,0 +1,20 @@
+Name: Translations
+Type: FolderType
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [5,4],
+    "Body": [
+     "","en-US","it-IT","af-ZA",
+     "Text Display","English Text","Testo Italiano","Afrikaans Text",
+     "StackLightBaseDisplayName","Stack Light Base","Stack Light Base","",
+     "StackLightBaseDescription","DESCRIPTION\nBase for stack light","DESCRIZIONE\nBase for stack light","",
+     "Change Language","Change Language","Cambio Lingua","Afrikaans Language"
+    ]
+   }

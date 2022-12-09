@@ -1,0 +1,13 @@
+Name: Instances
+Type: FolderType
+Children:
+- File: screens_1_10/screens_1_10.yaml
+- File: screens_11_20/screens_11_20.yaml
+- File: screens_21_30/screens_21_30.yaml
+- File: screens_31_40/screens_31_40.yaml
+- File: screens_41_50/screens_41_50.yaml
+- File: screens_51_60/screens_51_60.yaml
+- File: screens_61_70/screens_61_70.yaml
+- File: screens_71_80/screens_71_80.yaml
+- File: screens_81_90/screens_81_90.yaml
+- File: screens_91_100/screens_91_100.yaml

@@ -1,0 +1,14 @@
+<svg version="1.2" baseProfile="tiny" id="EdgeSVG_kIz1q" x="0px" y="0px" width="101.44px" height="58.583px" viewBox="0 0 101.44 58.583" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="29.2915" x2="101.4399" y2="29.2915">
+    <stop offset="0" style="stop-color:#000000;stop-opacity:0.5"/>
+    <stop offset="1" style="stop-color:#000000;stop-opacity:0.5"/>
+  </linearGradient>
+  <path style="fill:url(#SVGID_1_);" d="M2.72,58.583c-1.5,0-2.72-1.22-2.72-2.72V2.72C0,1.22,1.22,0,2.72,0h96&#xD;&#xA;&#x9;c1.5,0,2.72,1.22,2.72,2.72v53.143c0,1.5-1.22,2.72-2.72,2.72H2.72z"/>
+  <path style="fill:#DD0009;" d="M98.72,0.72h-96c-1.1,0-2,0.9-2,2v26.571h100V2.72C100.72,1.62,99.82,0.72,98.72,0.72z"/>
+  <path style="fill:#18187A;" d="M0.721,55.863c0,1.1,0.9,2,2,2h96c1.1,0,2-0.9,2-2V29.292h-100V55.863z"/>
+  <polygon style="fill:#FFFFFF;" points="23.536,0.72 15.521,0.72 52.742,23.242 100.72,23.242 100.72,19.207 54.086,19.207 "/>
+  <polygon style="fill:#FFFFFF;" points="15.521,57.863 23.536,57.863 54.086,39.377 100.72,39.377 100.72,35.341 52.742,35.341 "/>
+  <path style="fill:#014208;" d="M15.521,0.72h-12.8c-1.1,0-2,0.9-2,2V6.31l37.984,22.982L0.721,52.273v3.59c0,1.1,0.9,2,2,2h12.8&#xD;&#xA;&#x9;l37.221-22.522h47.979V23.242H52.742L15.521,0.72z"/>
+  <polygon style="fill:#FBEF07;" points="38.705,29.292 0.721,52.273 0.721,47.428 30.696,29.292 0.721,11.156 0.721,6.31 "/>
+  <polygon points="0.721,47.428 30.696,29.292 0.721,11.156 "/>
+</svg>

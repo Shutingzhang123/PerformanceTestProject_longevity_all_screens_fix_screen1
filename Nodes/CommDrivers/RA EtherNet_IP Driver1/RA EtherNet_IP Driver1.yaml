@@ -1,0 +1,7 @@
+Name: RA EtherNet/IP Driver1
+Type: RAEtherNetIPDriver
+Children:
+- File: RA EtherNet_IP Station1/RA EtherNet_IP Station1.yaml
+- File: RAEtherNet_IPStation2/RAEtherNet_IPStation2.yaml
+- File: RAEtherNet_IPStation3/RAEtherNet_IPStation3.yaml
+- File: RAEtherNet_IPStation4/RAEtherNet_IPStation4.yaml

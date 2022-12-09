@@ -1,0 +1,7 @@
+<svg version="1.2" baseProfile="tiny" id="EdgeSVG_Ymh2s" x="0px" y="0px" width="11.852px" height="37px" viewBox="0 0 11.852 37" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="SVGID_13_" gradientUnits="userSpaceOnUse" x1="2.1782" y1="1.7129" x2="9.6753" y2="1.7129">
+    <stop offset="0" style="stop-color:#000000;stop-opacity:0.5"/>
+    <stop offset="1" style="stop-color:#000000;stop-opacity:0.5"/>
+  </linearGradient>
+  <path fill="url(#SVGID_13_)" d="M2.677,2.414C2.533,2.183,2.51,1.952,2.51,1.828c0-0.706,0.666-1.525,1.525-1.525h3.78&#xD;&#xA;&#x9;&#x9;c0.859,0,1.525,0.82,1.525,1.525c0,0.124-0.022,0.357-0.167,0.587c0.021,0.082,0.048,0.176,0.073,0.27&#xD;&#xA;&#x9;&#x9;c0.094,0.35,0.148,0.57,0.182,0.741h0.246v-1C9.675,1.233,9.019,0,7.921,0h-3.99C2.833,0,2.178,1.233,2.178,2.425v1h0.244&#xD;&#xA;&#x9;&#x9;c0.034-0.17,0.089-0.391,0.182-0.741C2.629,2.592,2.655,2.5,2.677,2.414z"/>
+</svg>

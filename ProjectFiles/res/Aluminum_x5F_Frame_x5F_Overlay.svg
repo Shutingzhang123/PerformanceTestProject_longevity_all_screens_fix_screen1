@@ -1,0 +1,30 @@
+<svg version="1.2" baseProfile="tiny" id="EdgeSVG_29xOk" x="0px" y="0px" width="200px" height="10px" viewBox="0 0 200 10" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="99.9995" y1="1" x2="99.9995" y2="9.0005">
+    <stop offset="0.0552" style="stop-color:#FFFFFF;stop-opacity:0.35"/>
+    <stop offset="0.0859" style="stop-color:#000000;stop-opacity:0.25"/>
+    <stop offset="0.2331" style="stop-color:#000000;stop-opacity:0.2"/>
+    <stop offset="0.2638" style="stop-color:#151515;stop-opacity:0.45"/>
+    <stop offset="0.319" style="stop-color:#222121;stop-opacity:0.43"/>
+    <stop offset="0.3374" style="stop-color:#1A1919;stop-opacity:0.55"/>
+    <stop offset="0.6503" style="stop-color:#000000;stop-opacity:0.45"/>
+    <stop offset="0.681" style="stop-color:#000000;stop-opacity:0"/>
+    <stop offset="0.7239" style="stop-color:#000000;stop-opacity:0.05"/>
+    <stop offset="0.7607" style="stop-color:#000000;stop-opacity:0.28"/>
+    <stop offset="0.8896" style="stop-color:#000000;stop-opacity:0.2"/>
+    <stop offset="0.9264" style="stop-color:#000000;stop-opacity:0.55"/>
+    <stop offset="1" style="stop-color:#000000;stop-opacity:0.45"/>
+  </linearGradient>
+  <rect y="1" fill="url(#SVGID_2_)" width="200" height="8"/>
+  <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="0" y1="2.5" x2="200" y2="2.5">
+    <stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    <stop offset="0.5153" style="stop-color:#FFFFFF;stop-opacity:0.2"/>
+    <stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+  </linearGradient>
+  <rect y="1" fill="url(#SVGID_3_)" width="200" height="3"/>
+  <linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="0" y1="7.5" x2="200" y2="7.5">
+    <stop offset="0" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    <stop offset="0.5153" style="stop-color:#FFFFFF;stop-opacity:0.1"/>
+    <stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+  </linearGradient>
+  <rect y="6" fill="url(#SVGID_4_)" width="200" height="3"/>
+</svg>

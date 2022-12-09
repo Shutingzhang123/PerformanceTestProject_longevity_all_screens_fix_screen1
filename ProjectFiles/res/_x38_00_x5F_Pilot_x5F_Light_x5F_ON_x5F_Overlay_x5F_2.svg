@@ -1,0 +1,19 @@
+<svg version="1.2" baseProfile="tiny" id="EdgeSVG_G8on4" x="0px" y="0px" width="86.813px" height="86.809px" viewBox="0 0 86.813 86.809" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <radialGradient id="SVGID_5_" cx="43.3809" cy="43.4121" r="31.7319" gradientUnits="userSpaceOnUse">
+    <stop offset="0.1104" style="stop-color:#FFFFFF;stop-opacity:0.3"/>
+    <stop offset="0.135" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    <stop offset="0.2515" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    <stop offset="0.2822" style="stop-color:#FFFFFF;stop-opacity:0.3"/>
+    <stop offset="0.3558" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    <stop offset="0.454" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    <stop offset="0.4908" style="stop-color:#FFFFFF;stop-opacity:0.3"/>
+    <stop offset="0.5521" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    <stop offset="0.6626" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    <stop offset="0.7117" style="stop-color:#FFFFFF;stop-opacity:0.3"/>
+    <stop offset="0.773" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    <stop offset="0.865" style="stop-color:#FFFFFF;stop-opacity:0"/>
+    <stop offset="0.8957" style="stop-color:#FFFFFF;stop-opacity:0.45"/>
+    <stop offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+  </radialGradient>
+  <circle fill="url(#SVGID_5_)" cx="43.381" cy="43.413" r="31.732"/>
+</svg>
